@@ -1,5 +1,3 @@
-# Beverage-Sales-Insights
-
 # Beverage-Sales-Insights📊
 
 An interactive Power BI dashboard designed to analyze beverage sales performance across multiple dimensions including product, category, region, state, and time. This report provides actionable insights that help businesses understand revenue drivers, customer trends, and product profitability.
