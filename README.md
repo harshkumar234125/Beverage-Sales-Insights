@@ -65,4 +65,4 @@ Users can explore sales trends across years (2020–2023), evaluate product prof
 • Provided product-level profitability insights to guide product strategy
 • Enabled management to optimize inventory & marketing spend based on trends.
 
-Screenshot : ![/harshkumar234125/Beverage-Sales-Insights/blob/main/Beverage%20Sales%20Insights.png]
+
